@@ -2,4 +2,6 @@ Nama  : Yovie Latiawan Sudrajat
 Npm   : 140810150051
 TTL   : Sumedang, 7 Desember 1996
 JK    : Laki-laki
-Hobi  : Main Game
+
+Nama  : Ahsan
+Npm   : 1401810160004
