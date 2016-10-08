@@ -5,3 +5,6 @@ JK    : Laki-laki
 
 Nama  : Ahsan
 Npm   : 1401810160004
+
+Nama  : Santo Malau
+Npm   : 140810160035
